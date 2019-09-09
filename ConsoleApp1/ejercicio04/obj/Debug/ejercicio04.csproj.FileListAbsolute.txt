@@ -1,0 +1,6 @@
+D:\albornoz\ConsoleApp1\ejercicio04\bin\Debug\ejercicio04.exe.config
+D:\albornoz\ConsoleApp1\ejercicio04\bin\Debug\ejercicio04.exe
+D:\albornoz\ConsoleApp1\ejercicio04\bin\Debug\ejercicio04.pdb
+D:\albornoz\ConsoleApp1\ejercicio04\obj\Debug\ejercicio04.csproj.CoreCompileInputs.cache
+D:\albornoz\ConsoleApp1\ejercicio04\obj\Debug\ejercicio04.exe
+D:\albornoz\ConsoleApp1\ejercicio04\obj\Debug\ejercicio04.pdb

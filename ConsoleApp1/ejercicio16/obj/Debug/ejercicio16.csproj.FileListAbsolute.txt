@@ -1,0 +1,2 @@
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio16\obj\Debug\ejercicio16.csprojAssemblyReference.cache
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio16\obj\Debug\ejercicio16.csproj.CoreCompileInputs.cache

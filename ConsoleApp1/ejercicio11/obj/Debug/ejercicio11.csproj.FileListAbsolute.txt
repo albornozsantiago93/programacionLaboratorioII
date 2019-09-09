@@ -1,0 +1,14 @@
+D:\albornoz\ConsoleApp1\ejercicio11\bin\Debug\ejercicio11.exe.config
+D:\albornoz\ConsoleApp1\ejercicio11\bin\Debug\ejercicio11.exe
+D:\albornoz\ConsoleApp1\ejercicio11\bin\Debug\ejercicio11.pdb
+D:\albornoz\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.csprojAssemblyReference.cache
+D:\albornoz\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.csproj.CoreCompileInputs.cache
+D:\albornoz\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.exe
+D:\albornoz\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.pdb
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.csprojAssemblyReference.cache
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.csproj.CoreCompileInputs.cache
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.exe
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio11\obj\Debug\ejercicio11.pdb
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio11\bin\Debug\ejercicio11.exe.config
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio11\bin\Debug\ejercicio11.exe
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio11\bin\Debug\ejercicio11.pdb

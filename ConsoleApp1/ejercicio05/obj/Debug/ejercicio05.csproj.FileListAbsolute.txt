@@ -1,0 +1,7 @@
+D:\albornoz\ConsoleApp1\ejercicio05\bin\Debug\ejercicio05.exe.config
+D:\albornoz\ConsoleApp1\ejercicio05\bin\Debug\ejercicio05.exe
+D:\albornoz\ConsoleApp1\ejercicio05\bin\Debug\ejercicio05.pdb
+D:\albornoz\ConsoleApp1\ejercicio05\obj\Debug\ejercicio05.csprojAssemblyReference.cache
+D:\albornoz\ConsoleApp1\ejercicio05\obj\Debug\ejercicio05.csproj.CoreCompileInputs.cache
+D:\albornoz\ConsoleApp1\ejercicio05\obj\Debug\ejercicio05.exe
+D:\albornoz\ConsoleApp1\ejercicio05\obj\Debug\ejercicio05.pdb

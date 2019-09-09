@@ -1,0 +1,14 @@
+D:\albornoz\ConsoleApp1\ejercicio06\bin\Debug\ejercicio06.exe.config
+D:\albornoz\ConsoleApp1\ejercicio06\bin\Debug\ejercicio06.exe
+D:\albornoz\ConsoleApp1\ejercicio06\bin\Debug\ejercicio06.pdb
+D:\albornoz\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.csprojAssemblyReference.cache
+D:\albornoz\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.csproj.CoreCompileInputs.cache
+D:\albornoz\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.exe
+D:\albornoz\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.pdb
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio06\bin\Debug\ejercicio06.exe.config
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio06\bin\Debug\ejercicio06.exe
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio06\bin\Debug\ejercicio06.pdb
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.csprojAssemblyReference.cache
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.csproj.CoreCompileInputs.cache
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.exe
+C:\Users\Cholo4000\Desktop\laboratorio 2\ConsoleApp1\ejercicio06\obj\Debug\ejercicio06.pdb
