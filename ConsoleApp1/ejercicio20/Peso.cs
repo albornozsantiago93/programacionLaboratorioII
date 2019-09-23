@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejercicio20
 {
-    class Peso
+    public class Peso
     {
         private double cantidad;
         private static double cotizRespectoDolar;
@@ -29,14 +29,14 @@ namespace ejercicio20
 
         public static explicit operator Dolar(Peso pss)
         {
-            Dolar dolares = new Dolar(pss.GetCantidad() * (Peso.cotizRespectoDolar));
+            Dolar dolares = new Dolar(pss.GetCantidad() / (Peso.cotizRespectoDolar));
             return dolares;
         }
 
         public static explicit operator Euro(Peso pss)
         {
             double cotizaciosPesosEuro = pss.GetCotizacion() * 1.16;
-            Euro euros = new Euro(pss.GetCantidad() * cotizaciosPesosEuro);
+            Euro euros = new Euro(pss.GetCantidad() / cotizaciosPesosEuro);
             return euros;
         }
 

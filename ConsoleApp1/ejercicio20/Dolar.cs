@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace ejercicio20
 {
-    class Dolar
+    public class Dolar
     {
         private double cantidad;
         private static double cotizRespectoDolar;
@@ -39,13 +39,14 @@ namespace ejercicio20
 
         public static explicit operator Euro(Dolar dls)
         {
-            Euro auxiliar = new Euro(dls.cantidad * Dolar.cotizRespectoDolar);
+            Euro auxiliar = new Euro(dls.cantidad / Dolar.cotizRespectoDolar);
             return auxiliar;
         }
 
         public static explicit operator Peso(Dolar dls)
         {
-            Peso auxiliar = new Peso(dls.cantidad * Dolar.cotizRespectoDolar);
+            
+            Peso auxiliar = new Peso(dls.cantidad / Dolar.cotizRespectoDolar);
             return auxiliar;
         }
 

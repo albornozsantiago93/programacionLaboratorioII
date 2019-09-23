@@ -1,0 +1,7 @@
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio27\bin\Debug\ejercicio27.exe.config
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio27\bin\Debug\ejercicio27.exe
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio27\bin\Debug\ejercicio27.pdb
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio27\obj\Debug\ejercicio27.csprojAssemblyReference.cache
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio27\obj\Debug\ejercicio27.csproj.CoreCompileInputs.cache
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio27\obj\Debug\ejercicio27.exe
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio27\obj\Debug\ejercicio27.pdb

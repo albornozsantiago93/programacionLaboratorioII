@@ -1,0 +1,7 @@
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio29\bin\Debug\ejercicio29.exe.config
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio29\bin\Debug\ejercicio29.exe
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio29\bin\Debug\ejercicio29.pdb
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio29\obj\Debug\ejercicio29.csproj.CoreCompileInputs.cache
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio29\obj\Debug\ejercicio29.exe
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio29\obj\Debug\ejercicio29.pdb
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio29\obj\Debug\ejercicio29.csprojAssemblyReference.cache

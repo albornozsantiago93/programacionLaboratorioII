@@ -1,0 +1,14 @@
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\bin\Debug\Conversor.exe.config
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\bin\Debug\Conversor.exe
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\bin\Debug\Conversor.pdb
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.csprojAssemblyReference.cache
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.Form1.resources
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.Properties.Resources.resources
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.csproj.GenerateResource.cache
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.csproj.CoreCompileInputs.cache
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.exe
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.pdb
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\bin\Debug\ejercicio20.exe
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\bin\Debug\ejercicio20.pdb
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\bin\Debug\ejercicio20.exe.config
+D:\albornoz santiago\11 SEP\ConsoleApp1\Conversor\obj\Debug\Conversor.csproj.CopyComplete

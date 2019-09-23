@@ -1,0 +1,14 @@
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio20\bin\Debug\ejercicio20.exe.config
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio20\bin\Debug\ejercicio20.exe
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio20\bin\Debug\ejercicio20.pdb
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.csprojAssemblyReference.cache
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.csproj.CoreCompileInputs.cache
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.exe
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.pdb
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio20\bin\Debug\ejercicio20.exe.config
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio20\bin\Debug\ejercicio20.exe
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio20\bin\Debug\ejercicio20.pdb
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.csprojAssemblyReference.cache
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.csproj.CoreCompileInputs.cache
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.exe
+D:\albornoz santiago\11 SEP\ConsoleApp1\ejercicio20\obj\Debug\ejercicio20.pdb

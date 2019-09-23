@@ -5,3 +5,10 @@ D:\albornoz santiago\laboratorio 2\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13
 D:\albornoz santiago\laboratorio 2\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13.csproj.CoreCompileInputs.cache
 D:\albornoz santiago\laboratorio 2\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13.exe
 D:\albornoz santiago\laboratorio 2\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13.pdb
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio13\bin\Debug\ejercicio13.exe.config
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio13\bin\Debug\ejercicio13.exe
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio13\bin\Debug\ejercicio13.pdb
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13.csprojAssemblyReference.cache
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13.csproj.CoreCompileInputs.cache
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13.exe
+C:\programacionLaboratorioII\ConsoleApp1\ejercicio13\obj\Debug\ejercicio13.pdb

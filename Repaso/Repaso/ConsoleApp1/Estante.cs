@@ -28,13 +28,6 @@ namespace ConsoleApp1
              return producto;
         }
 
-        /*public string MostrarEstante(Estante est)
-        {
-            string retorno = "";
-
-            retorno= 
-        }
-        */
         public static bool operator ==(Estante est,Producto prd)
         {
             bool retorno = false;
@@ -86,6 +79,23 @@ namespace ConsoleApp1
                 }
             }
             return est;
+        }
+
+        public static string MostrarEstante(Estante e)
+        {
+            StringBuilder retorno = new StringBuilder();
+            retorno.AppendLine("Ubicacion: " + e.ubicacionEstante);
+                foreach (Producto producto in e.producto) 
+            {
+                if(!(((Object)producto)==null))
+                {
+                    retorno.AppendLine(Producto.MostrarProducto(producto));
+                }
+            }
+            return retorno.ToString();
+            
+
+
         }
     }
 }
